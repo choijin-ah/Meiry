@@ -1,12 +1,12 @@
 <template>
     <header_top />
-  ` <memo />
+    <memo />
 
 </template>
 
 <script>
 import header_top from '@/layout/header.vue';
-import memo from '../src/layout/memo.vue'
+import memo from './layout/ShortMemo.vue'
 
 
 
