@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import HomeView from '@/page/memo.vue';
-import AboutView from '@/page/text.vue';
+import HomeView from '@/layout/memo.vue';
+import AboutView from '@/layout/text.vue';
 
 const routes = [
     {

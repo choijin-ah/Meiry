@@ -5,7 +5,7 @@
 <template>
   <nav class="navbar navbar-expand-lg bg-body-tertiary" id="navbar_2f">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">MEIRY</a>
+      <img src="../assets/logo.svg" alt="meiry"  id="main_logo"/>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -39,6 +39,10 @@
 </template>
 
 <style scoped>
+
+  #main_logo{
+    height: 2.0rem;
+  }
 
   .navbar{
     height: 2.5em;

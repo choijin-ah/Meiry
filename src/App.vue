@@ -5,8 +5,8 @@
 </template>
 
 <script>
-import header_top from './components/layout/menu/header_top.vue';
-import memo from './page/memo.vue'
+import header_top from '@/layout/header.vue';
+import memo from '../src/layout/memo.vue'
 
 
 

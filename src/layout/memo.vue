@@ -1,5 +1,5 @@
 <script setup>
-  import editor from '../components/layout/memo/tiptap.vue';
+  import editor from '@/components/memo/tiptap.vue';
 
 
 </script>
