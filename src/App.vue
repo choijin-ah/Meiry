@@ -1,5 +1,5 @@
 <template>
-    <header_top /> <!-- 여기에서 MyComponent를 사용합니다 -->
+    <header_top />
   ` <memo />
 
 </template>
