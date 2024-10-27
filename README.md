@@ -1,29 +1,7 @@
-# meiry
+Meiry - 메아리
 
-This template should help get you started developing with Vue 3 in Vite.
+개인 메모를 가장 효율적으로 할 수 있는 방법을 생각했습니다.
 
-## Recommended IDE Setup
+Vue.js를 통한 프론트엔드 개발중
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+부트스트랩을 나름 예쁘게 커스텀하는 방법을 생각중
