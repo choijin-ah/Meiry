@@ -14,6 +14,6 @@
   background-color: white;
   padding: 1%;
   border-radius: 20px;
-  box-shadow: 0px 0px 10px -2px #000 ;
+  box-shadow: 0px 0px 15px -2px #000 ;
 }
 </style>
